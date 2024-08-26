@@ -15,7 +15,7 @@ Follow these steps to set up the Typing Speed Test Application on your local mac
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/typing-speed-test.git
+   https://github.com/SaiSriramKamineni/Typing-Speed-Test-Application-Python-GUI
     ```
 2. **Navigate to the project directory**:
     ```bash
@@ -27,7 +27,7 @@ Follow these steps to set up the Typing Speed Test Application on your local mac
     ```
 4. **Run the application**:
     ```bash
-    python typing_speed_test.py
+    python type.py
     ```
 
 ## 🚀 **How to Use**
